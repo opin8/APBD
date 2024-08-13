@@ -1,0 +1,40 @@
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.csproj.AssemblyReference.cache
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.AssemblyInfoInputs.cache
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.AssemblyInfo.cs
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.csproj.CoreCompileInputs.cache
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.sourcelink.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\appsettings.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Cwiczenia 5.exe
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Cwiczenia 5.deps.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Cwiczenia 5.runtimeconfig.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Cwiczenia 5.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Cwiczenia 5.pdb
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\staticwebassets\msbuild.Cwiczenia 5.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\staticwebassets\msbuild.build.Cwiczenia 5.props
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Cwiczenia 5.props
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Cwiczenia 5.props
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\scopedcss\bundle\Cwiczenia 5.styles.css
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\refint\Cwiczenia 5.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.pdb
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczenia 5.genruntimeconfig.cache
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\ref\Cwiczenia 5.dll
+C:\Users\Bartek\Desktop\APBD\Cwiczenia 5\Cwiczenia 5\obj\Debug\net8.0\Cwiczeni.69671568.Up2Date

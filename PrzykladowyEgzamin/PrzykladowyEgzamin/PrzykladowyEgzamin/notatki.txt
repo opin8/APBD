@@ -1,0 +1,54 @@
+Egzamin APBD
+
+podczas laczenia w rider Server=db-mssql;Database=2019SBD;Trusted_Connection=True;
+
+Connection String,
+  "ConnectionStrings": {
+    "DefaultConnection": "Server=db-mssql;Database=2019SBD;Trusted_Connection=True;TrustServerCertificate=True;"
+  },
+
+
+
+Zainstalowac w nuget EntityFrameworkCore.SqlServer albo InMemory żeby uzywac symulowanej bazy
+dodatkowo pomaga EntityFrameworkCore.Design
+
+komendy w terminalu w folderze projektu:
+"dotnet new tool-manifest"
+"dotnet tool install dotnet-ef --version 8.0.0"
+
+mogą być problemy wtedy -> na projekcie right click->Edit->Edit 'Projekt.csproj'-> zmieniamy InvariantGlobalization na false
+
+
+CodeFirst github Cwiczenia-9
+
+1. Tworze Context - klasa która dziedziczy po DbContext (Cw9 -> Repository->App.DbContext)
+2. Tworze 2 konstruktory - jeden pusty drugi przyjmuje DbContextOptions<ApplicationDbContext> options 
+3. Tworzymy Models 
+[Key] mowiacy ze to klucz glowny
+IdStudent
+ 
+[MaxLength(200)]
+[Required]
+public string FirstName
+
+4. W DbContext tworzymy public DbSet<Student> Students{get; set;}
+
+5.Teraz connection string do appsettings.json
+
+6. w Program.cs dodajemy Context builder.Services.AddDbcontext<XXXContext>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+7. w terminalu:
+dotnet ef migrations add AddedStudentsTable
+
+countries {country_id}
+polaczenie jeden kraj przypisany do wielu lokacji
+locations {country_id}
+czyli kraj ma w sobie wiele lokalizacji: public ICollection<Location> Locations {get; set;} = new List<Location>();
+natomiast lokalizacja ma jeden kraj czyli public ClientCategory ClientCategory { get; set; }
+
+albo nawet 
+
+public int IdClientCategory { get; set; }
+    [ForeignKey(nameof(IdClientCategory))]
+    public ClientCategory ClientCategory { get; set; }

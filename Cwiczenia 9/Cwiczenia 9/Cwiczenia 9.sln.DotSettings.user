@@ -1,0 +1,16 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=5c920c56_002D82e6_002D4d27_002D9b6d_002D799d26c0006b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::54CE1C83-21A6-4D03-90C2-DFE3166CD25D::net8.0::Cwiczenia_9.Tests.PrescriptionServiceTests.AddPrescriptionAsync_ShouldAddPrescription&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=befb5587_002D3ee4_002D4be4_002D9cf0_002Dd7df0d6b92c8/@EntryIndexedValue">&lt;SessionState ContinuousTestingIsOn="True" ContinuousTestingMode="1" Name="AddPrescriptionAsync_ShouldAddPrescription" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::54CE1C83-21A6-4D03-90C2-DFE3166CD25D::net8.0::Cwiczenia_9.Tests.PrescriptionServiceTests.AddPrescriptionAsync_ShouldAddPrescription&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bf1d2a2b_002D22cb_002D4144_002Dba31_002D4dd26b79e17c/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="GetPatientDetailsAsync_ShouldReturnPatientDetails" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::54CE1C83-21A6-4D03-90C2-DFE3166CD25D::net8.0::Cwiczenia_9.Tests.PrescriptionServiceTests.GetPatientDetailsAsync_ShouldReturnPatientDetails&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
